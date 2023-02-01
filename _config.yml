@@ -83,9 +83,9 @@ author:
   name             : "Erhao Ge"
   avatar           : "profile.png"
   bio              : "PhD candidate in Evolutionary Anthropology"
-  location         : "Department of Anthropology, University College London"
+  location         : "https://goo.gl/maps/5vdpnTBywicwB5Ji8"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xfql_RYAAAAJ"
   email            : "ucsaege@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shaylaYU"
+  github           : "https://github.com/erhaoGe"
   google_plus      :
   keybase          :
   instagram        :

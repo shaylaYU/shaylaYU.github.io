@@ -14,7 +14,7 @@ Department of Anthropology, University College London
 Contact Me
 ======
 My Twitter: [@Erhao_Ge]()
-My google scholar: [Erhao_Ge](https://scholar.google.com/citations?hl=en&user=xfql_RYAAAAJ)
+My google scholar: [Erhao Ge](https://scholar.google.com/citations?hl=en&user=xfql_RYAAAAJ)
 
 Site-wide configuration
 ------
